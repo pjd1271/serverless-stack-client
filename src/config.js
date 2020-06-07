@@ -1,4 +1,7 @@
 export default {
+	STRIPE_KEY:
+		'pk_test_51Gr5bLBacSK1g5eqCH7VYoWAk3Zh5o9SIIQ9E6qyjeXmKtrCsXWcgXJLnudyCSZYViTvvn8OtkrB6dQt7m6bhjDm0023ejJcCh',
+	MAX_ATTACHMENT_SIZE: 5000000,
 	s3: {
 		REGION: 'us-east-1',
 		BUCKET: 'peter-dipietro-notes-app-uploads',
